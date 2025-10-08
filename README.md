@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasib Al Mamun</h1>
+<h1 align="center">Hi, I'm Hasib Al Mamun</h1>
 <h3 align="center">A passionate Web Application developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Backend technology**
