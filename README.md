@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Hasib Al Mamun</h1>
 <h3 align="center">A passionate Web Application developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Backend technology**
+- 🌱 I’m currently learning **How to write code Myself😁**
 
-- 💬 Ask me about **Js,Tailwind & React**
+- 💬 Ask me about **Web technology**
 
 - 📫 How to reach me **hasib.gub221@gmail.com**
 
