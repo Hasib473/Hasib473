@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Hasib Al Mamun</h1>
 <h3 align="center">A passionate Web Application developer from Bangladesh</h3>
 
-- 🌱 I’m continuously learning **Web Technology**
+- I’m continuously learning **Web Technology**
 
-- 📫 How to reach me **hasib.gub221@gmail.com**
+- How to reach me **hasib.gub221@gmail.com**
 
-- ⚡ Fun fact **I'm a Stunning person**
+- Fun fact **I'm a Stunning person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
