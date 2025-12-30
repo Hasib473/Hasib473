@@ -3,7 +3,7 @@
 
 - I’m continuously learning **Web Technology**
 
--  Reach me at  **hasib.gub221@gmail.com**
+-  Reach me at  **📧hasib.gub221@gmail.com**
 
 - Fun fact **I'm a Stunning person**
 
