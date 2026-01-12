@@ -3,11 +3,9 @@
 
 - I’m continuously learning **Web Technology**
 
--  Reach me at  **📧hasib.gub221@gmail.com**
+-  Reach me at  **📧hasib.gub221@gmail.com** & **📞01570265433**
 
-- Fun fact **I'm a Stunning person**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Website : hasibalmamun.netlify.app</h3>
 <p align="left">
 </p>
 
