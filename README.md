@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Hasib Al Mamun
+### Hi there my name is Hasib Al Mamun
 #### Jr. full stack Developer
 ![Jr. full stack Developer](https://media.licdn.com/dms/image/v2/D5616AQEhvnm_4eHZrA/profile-displaybackgroundimage-shrink_350_1400/B56Z1FK0WWKcAY-/0/1774981958702?e=1776297600&v=beta&t=IpDakcxfwdwP4IuCMrbHkTDN8mTsWZx2ZQe84qFxRN4)
 
@@ -7,10 +7,10 @@ I’m a full-stack web developer experienced in building modern web applications
 
 Skills: Next.js / React.js/ JS / HTML / CSS / Node.js / Express.js
 
-- 🔭 I’m currently working on Zensoft Lab as a Intern Web Devloper 
-- 🌱 I’m currently learning DevOps 
-- 💬 Ask me about Web Technology 
-- 📫 How to reach me: 📧 hasib.gub221@gmail.com 
+-  I’m currently working on Zensoft Lab as a Intern Web Devloper 
+-  I’m currently learning DevOps 
+-  Ask me about Web Technology 
+-  How to reach me: 📧 hasib.gub221@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Hasib473)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasib221//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](hasibalmamun.netlify.app)  
