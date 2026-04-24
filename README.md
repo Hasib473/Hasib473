@@ -1,6 +1,7 @@
 ### Hi there my name is Hasib Al Mamun
 #### Jr. full stack Developer
-![Jr. full stack Developer](https://media.licdn.com/dms/image/v2/D5616AQEhvnm_4eHZrA/profile-displaybackgroundimage-shrink_350_1400/B56Z1FK0WWKcAY-/0/1774981958702?e=1776297600&v=beta&t=IpDakcxfwdwP4IuCMrbHkTDN8mTsWZx2ZQe84qFxRN4)
+![Banner](https://octometrics.vercel.app/api/banner?name=Hasib%20Al%20Mamun&title=Jr.%20Web%20Developer&tech=MERN&location=Khilkhet%2C%20Dhaka&pattern=dots&wave=true&align=center&theme=light)
+
 
 I’m a full-stack web developer experienced in building modern web applications using React on the frontend and backend technologies for scalable server-side solutions. I focus on writing clean, efficient code and designing APIs that are secure and maintainable. I enjoy solving real-world problems through structured thinking and continuous learning.
 .
@@ -13,12 +14,12 @@ Skills: Next.js / React.js/ JS / HTML / CSS / Node.js / Express.js
 -  How to reach me: 📧 hasib.gub221@gmail.com 
 
 ![Stats Card](https://octometrics.vercel.app/api/stats?username=hasib473&theme=light)
-![Stats Card](https://octometrics.vercel.app/api/stats?username=hasib473&theme=dark)
-
-![Stats Card](https://octometrics.vercel.app/api/stats?username=hasib473&theme=light)
-
-![Languages](https://octometrics.vercel.app/api/languages?username=hasib473&theme=dark&top=5&layout=bar&view=top)
 
 ![Languages](https://octometrics.vercel.app/api/languages?username=hasib473&theme=light&top=5&layout=bar&view=top)
 
-![Languages](https://octometrics.vercel.app/api/languages?username=hasib473&theme=dark&top=5&layout=bar&view=top)
+![Typing ](https://octometrics.vercel.app/api/typing?lines=Hello%20World%2C%20I%20am%20Jr.%20Web%20Developer&speed=80&pause=1000&theme=light)
+
+![Badge](https://octometrics.vercel.app/api/badges/followers?user=hasib473)
+
+![GitHub Streak](https://octometrics.vercel.app/api/streak?username=hasib473&theme=light)
+
