@@ -19,7 +19,4 @@ Skills: Next.js / React.js/ JS / HTML / CSS / Node.js / Express.js
 
 ![Typing ](https://octometrics.vercel.app/api/typing?lines=Hello%20World%2C%20I%20am%20Jr.%20Web%20Developer&speed=80&pause=1000&theme=light)
 
-![Badge](https://octometrics.vercel.app/api/badges/followers?user=hasib473)
-
-![GitHub Streak](https://octometrics.vercel.app/api/streak?username=hasib473&theme=light)
 
