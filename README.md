@@ -1,7 +1,7 @@
 ### Hi there my name is Hasib Al Mamun
 I’m a full-stack web developer experienced in building modern web applications using React on the frontend and backend technologies for scalable server-side solutions. I focus on writing clean, efficient code and designing APIs that are secure and maintainable. I enjoy solving real-world problems through structured thinking and continuous learning.
 
-Skills: Next.js / React.js/ JS / HTML / CSS / Node.js / Express.js
+Skills: Next.js / React.js/ JS / HTML / CSS / Node.js / Express.js / Nest.js / Three.js / Ai/ ML/DL/NlP / MCP Server / N8N Automation
 
 -  I’m currently working on Zensoft Lab as a Intern Web Devloper 
 -  I’m currently learning DevOps 
